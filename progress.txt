@@ -35,4 +35,9 @@ progress=50,56%
 activities=["Фармил Азжо-Неруб, миллиард траев чтобы выбить дробящее с треша, не выбивается("]
 
 Sunday 23 March 2025
+progress=51,53%
+activities=["Закрыл Аметистовую Крепость лк"]
+
+Monday 24 March 2025
 progress=
+
