@@ -39,5 +39,8 @@ progress=51,53%
 activities=["Закрыл Аметистовую Крепость лк"]
 
 Monday 24 March 2025
-progress=
+progress=52,43%
+activities=["Аукцион туда, сюда"]
 
+Tuesday 25 March 2025
+progress=
