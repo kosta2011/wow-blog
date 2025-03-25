@@ -43,4 +43,8 @@ progress=52,43%
 activities=["Аукцион туда, сюда"]
 
 Tuesday 25 March 2025
-progress=
+progress=53,96%
+activities=["Аукцион туда, сюда"]
+
+Wednesday 26 March 2025
+progress=50,36%
