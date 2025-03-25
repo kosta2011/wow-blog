@@ -47,4 +47,4 @@ progress=53,96%
 activities=["Аукцион туда, сюда"]
 
 Wednesday 26 March 2025
-progress=50,36%
+progress=
