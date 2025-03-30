@@ -61,4 +61,5 @@ progress=54,14%
 activities=["Собрал славный сет (на аукционе)"]
 
 Sunday 30 March 2025
-progress=
+progress=54,10%
+comment="Отрицательный рост"
